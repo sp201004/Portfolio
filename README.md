@@ -1,4 +1,4 @@
-# Personal Portfolio Website
+# Intro Portfolio
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript. Features a clean design with smooth animations and interactive elements.
 
