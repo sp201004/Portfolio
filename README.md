@@ -83,6 +83,6 @@ This project is open source and available under the [MIT License](LICENSE).
 **Surya Pratap Singh**
 
 - Location: Agartala, India
-- Portfolio: [yourusername.github.io](https://yourusername.github.io)
+- Portfolio: [sp201004.github.io](https://sp201004.github.io/Portfolio/)
 - GitHub: [@sp201004](https://github.com/sp201004)
 - LinkedIn: [suryapratapsingh1](https://www.linkedin.com/in/suryapratapsingh1/)
