@@ -86,3 +86,8 @@ This project is open source and available under the [MIT License](LICENSE).
 - Portfolio: [sp201004.github.io](https://sp201004.github.io/Portfolio/)
 - GitHub: [@sp201004](https://github.com/sp201004)
 - LinkedIn: [suryapratapsingh1](https://www.linkedin.com/in/suryapratapsingh1/)
+
+
+<div align="center">
+Built with ❤️ by the Surya
+</div>
